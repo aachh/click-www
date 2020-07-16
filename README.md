@@ -1,0 +1,1 @@
+This is the repository for Click's website, built with Bootstrap. Feel free to contribute!
